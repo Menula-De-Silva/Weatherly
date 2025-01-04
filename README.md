@@ -6,7 +6,7 @@
 ## 📌 About  
 Weatherly is a feature-packed Python application designed to provide comprehensive weather information for any city around the globe. Whether you're planning a trip, a daily commute, or just curious about the weather, Weatherly has you covered with real-time updates, dynamic visuals, and a user-friendly interface.
 
-![Weatherly Screenshot](https://via.placeholder.com/600x300)
+![Weatherly Screenshot](https://t4.ftcdn.net/jpg/02/66/38/15/360_F_266381525_alVrbw15u5EjhIpoqqa1eI5ghSf7hpz7.jpg)
 
 ---
 
