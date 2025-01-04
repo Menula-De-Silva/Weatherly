@@ -69,3 +69,5 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/Menula-De-Silva/weatherly.git
    cd weatherly
+
+
