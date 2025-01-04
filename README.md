@@ -1,27 +1,58 @@
 # Weatherly 🌤️  
-**Real-Time Weather Forecast App in Python**
+**Your Ultimate Weather Forecast App in Python**
 
 ---
 
 ## 📌 About  
-Weatherly is a Python-based GUI application that lets you check the real-time weather for any city or location worldwide. Using the OpenWeatherMap API, this app fetches and displays detailed weather information like temperature, humidity, wind speed, and more.
+Weatherly is a feature-packed Python application designed to provide comprehensive weather information for any city around the globe. Whether you're planning a trip, a daily commute, or just curious about the weather, Weatherly has you covered with real-time updates, dynamic visuals, and a user-friendly interface.
 
-![Weatherly Screenshot](https://via.placeholder.com/600x300)  
+![Weatherly Screenshot](https://via.placeholder.com/600x300)
 
 ---
 
 ## 💡 Features  
-- 🌍 **Real-time Weather Updates**  
-  Get up-to-date weather information for any city or location.
-  
-- 🖥️ **User-Friendly Interface**  
-  Simple and intuitive GUI built with Tkinter.  
 
-- 📊 **Detailed Weather Data**  
-  Displays temperature, humidity, wind speed, and weather description.  
+### 🌍 **Global Coverage**  
+Get accurate weather details for any city in the world, thanks to OpenWeatherMap’s robust API.
 
-- 🎨 **Customizable Theme**  
-  Switch between light and dark themes for the UI.
+### ⏱️ **Real-Time Weather Updates**  
+Receive up-to-the-minute weather data, including temperature, humidity, wind speed, and more.
+
+### 🌡️ **Temperature Conversion**  
+Effortlessly toggle between Celsius and Fahrenheit to suit your preference.
+
+### 🌤️ **Dynamic Weather Icons**  
+See the current weather conditions with visually appealing and accurate icons, such as sunny, cloudy, or rainy.
+
+### 🌅 **Sunrise and Sunset Times**  
+Know when the day starts and ends with precise sunrise and sunset timings.
+
+### 📍 **Search Any Location**  
+Easily search for any city by entering its name and retrieve weather data instantly.
+
+### 🕰️ **Timezone Support**  
+Displays the local time of the selected city to help you plan better, especially when traveling.
+
+### 🎨 **Light and Dark Mode**  
+Switch between light and dark themes for a comfortable viewing experience in different lighting conditions.
+
+### 🚨 **Severe Weather Alerts (Future Update)**  
+Receive notifications for extreme weather conditions, such as storms or heatwaves.
+
+### 📊 **Weekly Weather Forecast (Future Update)**  
+View a detailed 7-day weather forecast to plan your week efficiently.
+
+### 🌌 **Air Quality Index (Future Update)**  
+Monitor air pollution levels and learn about the air quality in your area.
+
+### 🗺️ **Interactive Weather Maps (Future Update)**  
+Explore live weather maps to visualize temperature, wind, and precipitation patterns globally.
+
+### 🌐 **Multi-Language Support (Future Update)**  
+Access weather updates in your preferred language for a truly global experience.
+
+### 🔔 **Custom Weather Notifications (Future Update)**  
+Set up personalized notifications for specific weather conditions, like rain or snow.
 
 ---
 
@@ -30,8 +61,7 @@ Weatherly is a Python-based GUI application that lets you check the real-time we
 ### Prerequisites  
 Ensure you have the following installed:  
 - Python 3.x  
-- `requests` library  
-- `tkinter` (bundled with Python)
+- Required libraries: `requests`, `tkinter`, `Pillow`  
 
 ### Installation  
 
